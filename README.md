@@ -1,3 +1,5 @@
+<img src="fishnado2-crop.jpeg" width="100%">
+
 ## TokenSPICE Art
 
 This repo includes:
