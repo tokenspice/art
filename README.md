@@ -1,7 +1,7 @@
 ## TokenSPICE Art
 
 This repo includes:
-- Logos as pngs for {color, b&w} x {dark bacgkround, light} 
+- Logos as pngs for {color, b&w} x {dark backround, light} 
 - Logos as svgs ""
 
 ## License
